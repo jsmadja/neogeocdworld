@@ -28,4 +28,33 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
-@import "_neogeocdworld";
+
+.site-nav {
+  float: none;
+  height: 100px;
+  text-align: center;
+}
+
+.site-header {
+  border-bottom: none;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #FFCC00;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    float: right;
+    height: inherit;
+  }
+}
