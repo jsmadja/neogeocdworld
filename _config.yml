@@ -26,9 +26,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-source: site
-sass:
-    sass_dir: assets
 collections:
   my_collection:
     output: true
