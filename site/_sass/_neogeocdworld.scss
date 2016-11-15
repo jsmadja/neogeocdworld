@@ -1,10 +1,29 @@
-body {
-  background: black;
-  color: white;
+.site-nav {
+  float: none;
+  height: 100px;
+  text-align: center;
+}
 
+.site-header {
+  border-bottom: none;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #FFCC00;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
   .site-nav {
-    .page-link {
-      color: white;
-    }
+    float: right;
+    height: inherit;
   }
 }
