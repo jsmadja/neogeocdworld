@@ -29,7 +29,7 @@ exclude:
 source: site
 
 sass:
-    sass_dir: ./_sass
+    sass_dir: ./site/_sass
 
 collections:
   my_collection:
