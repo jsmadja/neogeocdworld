@@ -28,7 +28,7 @@ exclude:
   - Gemfile.lock
 source: site
 sass:
-    sass_dir: ./_sass
+    sass_dir: assets
 collections:
   my_collection:
     output: true
