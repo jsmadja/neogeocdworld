@@ -21,6 +21,50 @@ h1 {
   text-align: center;
 }
 
+.post-content {
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 16pt;
+    color: #00CCFF;
+    font-weight: bold;
+  }
+}
+
+.post-title {
+  font-size: 36px;
+  font-weight: normal;
+}
+
+table {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  border-collapse:collapse;
+}
+
+td {
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  padding-left: 10px;
+}
+
+p {
+  margin-top: 15px;
+}
+
+img {
+  display: inline-block;
+}
+
+img.center {
+  display: block;
+}
+
 @media screen and (max-width: 600px) {
   .site-nav {
     float: right;

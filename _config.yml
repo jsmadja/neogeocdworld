@@ -27,5 +27,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 collections:
-  my_collection:
+  caracteristiques:
     output: true

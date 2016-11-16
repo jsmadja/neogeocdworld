@@ -10,7 +10,7 @@ Cette machine est donc très rapidement devenue un mythe.
 
 D'abord, parce qu'elle surpasse complètement tous les autres supports de cette époque, autant consoles (Megadrive de Sega et Super-Nes pour Nintendo) qu'ordinateurs (Atari ST et Amiga, les seuls performants pour les jeux comparés aux MAC et PC). D'ailleurs, toute comparaison serait trompeuse puisqu'il n'existait rien d'équivalent début 1990. Ensuite, son coût est tel que cette console reste inabordable pour le commun. Une petite capture de sprites qui en dit long: de gauche a droite Art Of Fighting sur Neo Geo, Karate Kid II sur Atari ST, IK+ sur Atari ST, Full Contact sur Amiga, Body Blow sur Amiga, Elfmania sur Amiga, Art Of Fighting sur Neo Geo. 
 
-![alt text](http://neogeocdworld.info/images/index/Planche.gif "Planche")
+<img class="center" src="http://neogeocdworld.info/images/index/Planche.gif">
 
 Ensuite le prix, celui de la console était de près de 3500 francs (console plus un stick), ce qui était cher pour l'époque mais pas exorbitant puisque la Core-Grafx avec son CD Rom était à 4.000 francs à la même date (remarquez, elle a peu marché elle aussi). Par contre, le problème venait des jeux qui étaient vendus entre 1500 et 2 000 francs pièce.
 
@@ -26,4 +26,4 @@ La gamme Neo Geo est donc très connue des joueurs (et encore) mais inconnue du 
 
 La Neo Geo CD dispose évidemment d'un gros désavantage par rapport à son aînée : les temps de chargement. Pour autant, ceux-ci ne sont pas si astronomiques qu'on veut bien nous le dire. De plus, cette console dispose de certains atouts tels que les musiques et surtout le prix des jeux... Ce site se propose de se concentrer essentiellement sur la console Neo Geo CD. Ces quelques pages sont donc bel et bien un manifeste en faveur de cette dernière. Mais attention, le but est de la faire découvrir tout en restant le plus objectif possible (ça changera...). 
 
-![alt text](http://neogeocdworld.info/images/index/snk-closed.jpg "SNK Closed")
+<img class="center" src="http://neogeocdworld.info/images/index/snk-closed.jpg">
